@@ -1,4 +1,4 @@
-# Microgrid-Blockchain-Project
+# Microgrid-Blockchain-Project- Anant
 
 This project was undertaken for my dissertation during my MSc of Artificial Intelligence. This work will investigate the use of
 peer-to-peer energy market platform to be used within microgrids as a contingency to solve these problems. The rise of prosumers, both consumers and producers, has been caused by the increasing affordability to invest in
